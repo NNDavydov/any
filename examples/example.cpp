@@ -1,4 +1,5 @@
 //Copyright Davydov Nikolay 2022
+
 #include <iostream>
 #include <string>
 
